@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Projects\FreeGpusinPortugal\iwanttoplay\target\rls\debug\build\typenum-0c06af3beab2e646\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Projects\FreeGpusinPortugal\iwanttoplay\target\rls\debug\build\typenum-0c06af3beab2e646\out\op.rs
