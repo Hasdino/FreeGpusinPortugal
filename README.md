@@ -1,5 +1,5 @@
 # FreeGpusinPortugal
-if u cant beat them join them
+if u cant beat them join them, for pc diga for example website.
 
 ## Problems
 
@@ -7,7 +7,7 @@ website didnt let me use beautifulsoup and didnt let me parse all the html code 
 if u dont have a vpn Cloudfare may redirect to the captcha. 
 (need to study cloudfare.scrapy library later)
 
-## open driver
+## Open driver
 used selenium and python 
 you have to get the open driver, i use opera so was slightly harder:
 get the driver for your browser from [website]: https://www.selenium.dev/documentation/en/webdriver/driver_requirements/
