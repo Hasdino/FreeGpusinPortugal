@@ -1,1 +1,0 @@
-https://www.pcdiga.com/#/embedded/query=3080%20ti&page=1&filter%5Bcategories%5D%5B0%5D=Placas%20Gráficas&query_name=match_andhttps://www.pcdiga.com/placa-grafica-msi-geforce-rtx-3090-suprim-x-24g-912-v388-010?search=3090
